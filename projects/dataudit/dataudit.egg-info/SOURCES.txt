@@ -1,0 +1,8 @@
+setup.py
+dataudit/__init__.py
+dataudit/core.py
+dataudit.egg-info/PKG-INFO
+dataudit.egg-info/SOURCES.txt
+dataudit.egg-info/dependency_links.txt
+dataudit.egg-info/requires.txt
+dataudit.egg-info/top_level.txt

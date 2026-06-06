@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: dataudit
+Version: 0.1.0
+Summary: Professional dataset profiling with multi-sheet Excel reports.
+Requires-Python: >=3.8
+Requires-Dist: numpy<2,>=1.23
+Requires-Dist: pandas>=1.5
+Requires-Dist: openpyxl>=3.1
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
